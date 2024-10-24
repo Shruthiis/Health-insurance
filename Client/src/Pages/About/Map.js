@@ -50,7 +50,7 @@ const Map = () => {
               marginHeight={0}
               marginWidth={0}
               scrolling="no"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59070.20388728314!2d70.6916195486328!3d22.282241800000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3959cbbfcdeb3e33%3A0x11a782bf6775a71d!2sAtmiya%20University!5e0!3m2!1sen!2sin!4v1691511140502!5m2!1sen!2sin"
+              src="https://www.google.com/search?q=coimbatore+google+map&rlz=1C1GCEJ_enIN1026IN1026&oq=COIMBATORE+GOO&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBggGEEUYOTIHCAcQLhiABDIHCAgQABiABDIHCAkQABiABNIBCjEzNDI0ajBqMTWoAgCwAgA&sourceid=chrome&ie=UTF-8"
               style={{ filter: "grayscale(1) contrast(1.2) opacity(0.4)" }}
             />
           </div>
